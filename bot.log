@@ -1,0 +1,370 @@
+2024-10-07 18:01:36 - INFO - Start polling
+2024-10-07 18:01:40 - INFO - Run polling for bot @from_cyrillic_to_latin_bot id=7026488469 - 'ФИО из кириллицы в латиницу бот'
+2024-10-07 18:03:09 - ps aux | grep python
+2024-10-07 18:03:13 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:03:13 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7026488469)
+2024-10-07 18:03:14 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:03:14 - WARNING - Sleep for 1.167014 seconds and try again... (tryings = 1, bot id = 7026488469)
+2024-10-07 18:03:18 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:03:18 - WARNING - Sleep for 1.275497 seconds and try again... (tryings = 1, bot id = 7026488469)
+2024-10-07 18:03:20 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:03:20 - WARNING - Sleep for 1.442630 seconds and try again... (tryings = 2, bot id = 7026488469)
+2024-10-07 18:03:24 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:03:24 - WARNING - Sleep for 1.660840 seconds and try again... (tryings = 2, bot id = 7026488469)
+2024-10-07 18:03:26 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:03:26 - WARNING - Sleep for 1.983976 seconds and try again... (tryings = 3, bot id = 7026488469)
+2024-10-07 18:03:31 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:03:31 - WARNING - Sleep for 2.114241 seconds and try again... (tryings = 3, bot id = 7026488469)
+2024-10-07 18:03:33 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:03:33 - WARNING - Sleep for 2.548839 seconds and try again... (tryings = 4, bot id = 7026488469)
+2024-10-07 18:03:39 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:03:39 - WARNING - Sleep for 2.668655 seconds and try again... (tryings = 4, bot id = 7026488469)
+2024-10-07 18:03:42 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:03:42 - WARNING - Sleep for 3.373006 seconds and try again... (tryings = 5, bot id = 7026488469)
+2024-10-07 18:03:45 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:03:45 - WARNING - Sleep for 3.295074 seconds and try again... (tryings = 5, bot id = 7026488469)
+2024-10-07 18:03:49 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:03:49 - WARNING - Sleep for 4.288829 seconds and try again... (tryings = 6, bot id = 7026488469)
+2024-10-07 18:03:53 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:03:53 - WARNING - Sleep for 4.288303 seconds and try again... (tryings = 6, bot id = 7026488469)
+2024-10-07 18:03:57 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:03:57 - WARNING - Sleep for 4.764549 seconds and try again... (tryings = 7, bot id = 7026488469)
+2024-10-07 18:04:00 - INFO - Start polling
+2024-10-07 18:04:00 - INFO - Run polling for bot @from_cyrillic_to_latin_bot id=7026488469 - 'ФИО из кириллицы в латиницу бот'
+2024-10-07 18:04:02 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:04:02 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7026488469)
+2024-10-07 18:04:03 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:04:03 - WARNING - Sleep for 4.950727 seconds and try again... (tryings = 7, bot id = 7026488469)
+2024-10-07 18:04:06 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:04:06 - WARNING - Sleep for 4.918038 seconds and try again... (tryings = 8, bot id = 7026488469)
+2024-10-07 18:04:08 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:04:08 - WARNING - Sleep for 1.313885 seconds and try again... (tryings = 1, bot id = 7026488469)
+2024-10-07 18:04:11 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:04:11 - WARNING - Sleep for 1.738857 seconds and try again... (tryings = 2, bot id = 7026488469)
+2024-10-07 18:04:13 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:04:13 - WARNING - Sleep for 4.957831 seconds and try again... (tryings = 8, bot id = 7026488469)
+2024-10-07 18:04:16 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:04:16 - WARNING - Sleep for 5.028685 seconds and try again... (tryings = 9, bot id = 7026488469)
+2024-10-07 18:04:18 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:04:18 - WARNING - Sleep for 2.142759 seconds and try again... (tryings = 3, bot id = 7026488469)
+2024-10-07 18:04:21 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:04:21 - WARNING - Sleep for 2.698148 seconds and try again... (tryings = 4, bot id = 7026488469)
+2024-10-07 18:04:23 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:04:23 - WARNING - Sleep for 5.058885 seconds and try again... (tryings = 9, bot id = 7026488469)
+2024-10-07 18:04:27 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:04:27 - WARNING - Sleep for 5.061778 seconds and try again... (tryings = 10, bot id = 7026488469)
+2024-10-07 18:04:28 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:04:28 - WARNING - Sleep for 3.510444 seconds and try again... (tryings = 5, bot id = 7026488469)
+2024-10-07 18:04:32 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:04:32 - WARNING - Sleep for 5.244381 seconds and try again... (tryings = 10, bot id = 7026488469)
+2024-10-07 18:04:35 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:04:35 - WARNING - Sleep for 4.530680 seconds and try again... (tryings = 6, bot id = 7026488469)
+2024-10-07 18:04:37 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:04:37 - WARNING - Sleep for 5.085789 seconds and try again... (tryings = 11, bot id = 7026488469)
+2024-10-07 18:04:42 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:04:42 - WARNING - Sleep for 5.217887 seconds and try again... (tryings = 7, bot id = 7026488469)
+2024-10-07 18:04:43 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:04:43 - WARNING - Sleep for 5.010799 seconds and try again... (tryings = 11, bot id = 7026488469)
+2024-10-07 18:04:48 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:04:48 - WARNING - Sleep for 5.008486 seconds and try again... (tryings = 12, bot id = 7026488469)
+2024-10-07 18:04:51 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:04:51 - WARNING - Sleep for 4.860010 seconds and try again... (tryings = 8, bot id = 7026488469)
+2024-10-07 18:04:53 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:04:53 - WARNING - Sleep for 4.786034 seconds and try again... (tryings = 12, bot id = 7026488469)
+2024-10-07 18:04:56 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:04:56 - WARNING - Sleep for 5.023537 seconds and try again... (tryings = 13, bot id = 7026488469)
+2024-10-07 18:05:01 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:05:01 - WARNING - Sleep for 5.046857 seconds and try again... (tryings = 9, bot id = 7026488469)
+2024-10-07 18:05:01 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:05:01 - WARNING - Sleep for 5.114647 seconds and try again... (tryings = 13, bot id = 7026488469)
+2024-10-07 18:05:06 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:05:06 - WARNING - Sleep for 5.192853 seconds and try again... (tryings = 14, bot id = 7026488469)
+2024-10-07 18:05:10 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:05:10 - WARNING - Sleep for 5.289452 seconds and try again... (tryings = 10, bot id = 7026488469)
+2024-10-07 18:05:11 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:05:11 - WARNING - Sleep for 5.132253 seconds and try again... (tryings = 14, bot id = 7026488469)
+2024-10-07 18:05:15 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:05:15 - WARNING - Sleep for 5.050491 seconds and try again... (tryings = 15, bot id = 7026488469)
+2024-10-07 18:05:19 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:05:19 - WARNING - Sleep for 4.889653 seconds and try again... (tryings = 11, bot id = 7026488469)
+2024-10-07 18:05:20 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-10-07 18:05:20 - WARNING - Sleep for 5.005359 seconds and try again... (tryings = 15, bot id = 7026488469)
+2024-10-07 18:05:30 - INFO - Connection established (tryings = 16, bot id = 7026488469)
+2024-10-07 18:44:16 - INFO - Start polling
+2024-10-07 18:44:17 - INFO - Run polling for bot @from_cyrillic_to_latin_bot id=7026488469 - 'ФИО из кириллицы в латиницу бот'
+2024-10-07 18:56:59 - WARNING - Received SIGINT signal
+2024-10-07 18:56:59 - INFO - Polling stopped for bot @from_cyrillic_to_latin_bot id=7026488469 - 'ФИО из кириллицы в латиницу бот'
+2024-10-07 18:56:59 - INFO - Polling stopped
+2024-10-07 19:08:11 - INFO - Start polling
+2024-10-07 19:08:11 - INFO - Run polling for bot @from_cyrillic_to_latin_bot id=7026488469 - 'ФИО из кириллицы в латиницу бот'
+2024-10-07 19:10:13 - INFO - Danil 504360549 запустил бота
+2024-10-07 19:10:14 - INFO - Update id=437320034 is handled. Duration 404 ms by bot id=7026488469
+2024-10-07 19:10:27 - INFO - Danil 504360549 Осинцев Даниил Анатольевич
+2024-10-07 19:10:28 - INFO - Update id=437320035 is handled. Duration 154 ms by bot id=7026488469
+2024-10-07 19:15:10 - INFO - Danil 504360549 авып ыавыпыв авпыв авпыыва
+2024-10-07 19:15:11 - INFO - Update id=437320036 is handled. Duration 470 ms by bot id=7026488469
+2024-10-07 19:16:12 - INFO - Danil 504360549 gd gdfgd fghdfg fg
+2024-10-07 19:16:15 - INFO - Update id=437320037 is not handled. Duration 2398 ms by bot id=7026488469
+2024-10-07 19:16:15 - ERROR - Cause exception while process update id=437320037 by bot id=7026488469
+TelegramBadRequest: Telegram server says - Bad Request: text must be non-empty
+Traceback (most recent call last):
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/bot.py", line 49, in send_fio_in_latin
+    break
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/methods/base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/client/bot.py", line 488, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/client/session/base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/client/session/aiohttp.py", line 189, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: text must be non-empty
+2024-10-07 19:18:15 - INFO - Danil 504360549 выапв авпв ывав вапва
+2024-10-07 19:18:16 - INFO - Update id=437320038 is handled. Duration 432 ms by bot id=7026488469
+2024-10-07 19:20:24 - INFO - Danil 504360549 fdhgfd hgfhf gfhf
+2024-10-07 19:20:26 - INFO - Update id=437320039 is not handled. Duration 2194 ms by bot id=7026488469
+2024-10-07 19:20:26 - ERROR - Cause exception while process update id=437320039 by bot id=7026488469
+TelegramBadRequest: Telegram server says - Bad Request: text must be non-empty
+Traceback (most recent call last):
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/bot.py", line 49, in send_fio_in_latin
+    break
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/methods/base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/client/bot.py", line 488, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/client/session/base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/client/session/aiohttp.py", line 189, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: text must be non-empty
+2024-10-07 19:21:22 - INFO - Danil 504360549 g h j
+2024-10-07 19:21:23 - INFO - Update id=437320040 is not handled. Duration 643 ms by bot id=7026488469
+2024-10-07 19:21:23 - ERROR - Cause exception while process update id=437320040 by bot id=7026488469
+TelegramBadRequest: Telegram server says - Bad Request: text must be non-empty
+Traceback (most recent call last):
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/bot.py", line 49, in send_fio_in_latin
+    await message.answer(text=out_str.title())
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/methods/base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/client/bot.py", line 488, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/client/session/base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/client/session/aiohttp.py", line 189, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: text must be non-empty
+2024-10-07 20:05:29 - INFO - Danil 504360549 g p a
+2024-10-07 20:05:30 - INFO - Update id=437320041 is not handled. Duration 817 ms by bot id=7026488469
+2024-10-07 20:05:30 - ERROR - Cause exception while process update id=437320041 by bot id=7026488469
+TelegramBadRequest: Telegram server says - Bad Request: text must be non-empty
+Traceback (most recent call last):
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/bot.py", line 49, in send_fio_in_latin
+    await message.answer(text=(f'ФИО может включать в себя только '
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/methods/base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/client/bot.py", line 488, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/client/session/base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/client/session/aiohttp.py", line 189, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/home/danil-pc/Forks_EBC/Ph0W3/MonBot/venv/lib/python3.12/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: text must be non-empty
+2024-10-07 20:06:19 - INFO - Danil 504360549 авп ролрп ген уке
+2024-10-07 20:06:20 - INFO - Update id=437320042 is handled. Duration 614 ms by bot id=7026488469
+2024-10-07 20:15:23 - INFO - Danil 504360549 ыва ера пара куеу
+2024-10-07 20:15:23 - INFO - Update id=437320043 is handled. Duration 524 ms by bot id=7026488469
+2024-10-07 20:17:33 - INFO - Start polling
+2024-10-07 20:17:33 - INFO - Run polling for bot @from_cyrillic_to_latin_bot id=7026488469 - 'ФИО из кириллицы в латиницу бот'
+2024-10-07 20:17:45 - INFO - Danil 504360549 авып рпао енг пор
+2024-10-07 20:17:46 - INFO - Update id=437320044 is handled. Duration 414 ms by bot id=7026488469
+2024-10-07 20:18:05 - INFO - Danil 504360549 Осинцев Даниил Анатольевич
+2024-10-07 20:18:05 - INFO - Update id=437320045 is handled. Duration 322 ms by bot id=7026488469
+2024-10-07 20:23:25 - INFO - Danil 504360549 gfhfgfdg dfgdf trhyr
+2024-10-07 20:23:25 - INFO - Update id=437320046 is handled. Duration 320 ms by bot id=7026488469
+2024-10-07 20:23:37 - INFO - Danil 504360549 fs32 gfhfg6 uykt33
+2024-10-07 20:23:37 - INFO - Update id=437320047 is handled. Duration 171 ms by bot id=7026488469
+2024-10-07 20:24:11 - INFO - Danil 504360549 Тараненко Алина Александровна
+2024-10-07 20:24:11 - INFO - Update id=437320048 is handled. Duration 311 ms by bot id=7026488469
+2024-10-07 20:24:27 - INFO - Danil 504360549 Осинцев4534 Даниил Анатольевич89
+2024-10-07 20:24:27 - INFO - Update id=437320049 is handled. Duration 371 ms by bot id=7026488469
